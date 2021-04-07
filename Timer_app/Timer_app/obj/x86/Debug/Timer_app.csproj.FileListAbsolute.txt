@@ -1,0 +1,9 @@
+/home/kiara21/Projects/Timer_app/Timer_app/bin/Debug/Timer_app.exe
+/home/kiara21/Projects/Timer_app/Timer_app/bin/Debug/Timer_app.pdb
+/home/kiara21/Projects/Timer_app/Timer_app/bin/Debug/libstetic.dll
+/home/kiara21/Projects/Timer_app/Timer_app/bin/Debug/libstetic.xml
+/home/kiara21/Projects/Timer_app/Timer_app/bin/Debug/libstetic.dll.config
+/home/kiara21/Projects/Timer_app/Timer_app/obj/x86/Debug/Timer_app.csprojResolveAssemblyReference.cache
+/home/kiara21/Projects/Timer_app/Timer_app/obj/x86/Debug/Timer_app.csproj.CoreCompileInputs.cache
+/home/kiara21/Projects/Timer_app/Timer_app/obj/x86/Debug/Timer_app.exe
+/home/kiara21/Projects/Timer_app/Timer_app/obj/x86/Debug/Timer_app.pdb
